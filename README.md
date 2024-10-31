@@ -7,13 +7,13 @@
   * [Debian下lamp](https://wendy8wendy.github.io/LinuxNote//Debian/web/lamp.md)
 + [CentOS的安装及配置](https://wendy8wendy.github.io/LinuxNote//CentOS)
   * [CentOS下lamp环境](https://wendy8wendy.github.io/LinuxNote//CentOS/lamp)
-  * [CentOS下lnmp环境](https://github.com/skylens/LinuxNote/tree/master/CentOS/lnmp)
-  * [openstack的记录](https://github.com/skylens/LinuxNote/tree/master/CentOS/openstack)
-+ [shell学习笔记](https://github.com/skylens/LinuxNote/tree/master/Shell)
-+ [python学习笔记](https://github.com/skylens/LinuxNote/tree/master/Python)
-+ [php学习笔记](https://github.com/skylens/LinuxNote/tree/master/PHP)
-+ [SQl相关](https://github.com/skylens/LinuxNote/tree/master/SQL)
-+ [Other](https://github.com/skylens/LinuxNote/tree/master/Other)
+  * [CentOS下lnmp环境](https://wendy8wendy.github.io/LinuxNote/CentOS/lnmp)
+  * [openstack的记录](https://wendy8wendy.github.io/LinuxNote/CentOS/openstack)
++ [shell学习笔记](https://wendy8wendy.github.io/LinuxNote/Shell)
++ [python学习笔记](https://wendy8wendy.github.io/LinuxNote/Python)
++ [php学习笔记](https://wendy8wendy.github.io/LinuxNote/PHP)
++ [SQl相关](https://wendy8wendy.github.io/LinuxNote/SQL)
++ [Other](https://wendy8wendy.github.io/LinuxNote/Other)
 
 ## 参考资料
 
